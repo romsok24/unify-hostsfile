@@ -11,7 +11,7 @@ Keep in mind, that you need to run it with higher privileges ( ie. sudo or RunAs
 The config needed by this app is provided by simple package named *psikuta*, which was ( for obvious reasons ) git ignored for this repo.
 
 # ToDo
-Not yet tested on MacOS....
+Not yet tested on MacOS and ARM platforms ....
 
 # Licence
 This code is released under BSD licence. 
