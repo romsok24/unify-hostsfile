@@ -5,6 +5,7 @@ This simple GO app ( my first one in GO ) is aimed to seamlessly ( without user 
 Just build it for your platform with:
 ```go build```
 and than just run it or schedule to run it periodically ( ie. with *crontab* ).
+Keep in mind, that you need to run it with higher privileges ( ie. sudo or RunAs Adm ).
 
 # Config
 The config needed by this app is provided by simple package named *psikuta*, which was ( for obvious reasons ) git ignored for this repo.
