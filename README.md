@@ -1,5 +1,5 @@
 # Goal of the code
-This simple GO app ( my first one in GO ) is aimed to seamlessly ( without user intervention ) update the hosts file on Windows / Linux / MacOS computers in a small company or in advanced home network.
+This simple GO app ( my first one in GO ) is aimed to seamlessly ( without user intervention ) update the hosts file on Windows / Linux / MacOS / RaspberryPi computers in a small company or in advanced home network.
 
 # Usage
 Just build it for your platform with:
